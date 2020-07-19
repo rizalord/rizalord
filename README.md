@@ -28,7 +28,7 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via developerfauzan@gmail.com to reach me.
-- 📝 See my <a href="https://www.linkedin.com/ambry/?x-li-ambry-ep=AQFWhZqx2akKWgAAAXNl5wS2x9ma5sg712BaF5Dvci33KamQNecx32kXhs2Co66SRsnVzmYgJGQF9vJuriJKBouVR3bCwcTrliveeTyR480b7ZFfWuk7P3pbLgag-234am9LswfYMFRxBEAcEniAD9sOb0jg3Z9-S-R9M3ihBKTZu5CkBD9utYHw0RTgEBnGB-pXFR4CNZoPCcjmKF4F9heOu79QAGFElDwtbKyaU_0_Wxyay3CULzCPV2ksrNj04PC5zY15xvIfB9btKllbtJ6Zd-loujJgsim5k3AJtWgJnoWHZSs2xhNRyXNSnTBxZxGFtWXEDKgPbHakHe2zaE02IEZfTlrhTOkxvobCnxpaAPor3xkL5TG6iVviHBBIGt8IaJ9oV0P6xZMlQqyeQauiCgRaU5nzclx4SiFZrsB3N9DkIAsJC2kPXNoSphFHkmA1usPUXof8r87LHu7dN4gBlMD3hD1n-aUOjTbDbgChRxRu4bTWy8vGSRzS6rsa1qpDypi2J2wWfCWwbIts">resume</a> to get more info.
+- 📝 See my <a href="https://www.linkedin.com/in/developerfauzan/">linked.in</a> to get more info.
 
 ## Get in touch
 
