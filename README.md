@@ -2,7 +2,7 @@ Programming Language Agnostic , Tech Enthusiast and Fullstack Developer.
 
 # Ahmad Khamdani
 
-Hi, I'm Ahmad Khamdani 👨 (he/him)—a fullstack developer and intern mobile developer at Ezy Industries. I live in Malang, Indonesia and still a 12th grade student in Vocational Highschool 4 Malang. 🙌 I'm a Fullstack Developer with PHP, Python, and Javascript as Backend, Vue as Frontend Website, Flutter as Mobile UI Kit, Manage projects with git and understanding to deploy and publish projects on heroku, and tech enthusiast. 💕
+Hi, I'm Ahmad Khamdani 👨 (he/him)—a fullstack developer and intern mobile developer at Ezy Industries. I live in Malang, Indonesia and still a 12th grade student in Vocational Highschool 4 Malang. 🙌 I'm a Fullstack Developer with PHP, Python, and Javascript as Backend, Vue as Frontend Website, Flutter as Mobile UI Framework, Manage projects with git and understanding to deploy and publish projects on heroku, and tech enthusiast. 💕
 
 ## Github Performance Overall
 
