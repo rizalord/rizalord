@@ -31,17 +31,17 @@ Hi, I'm Ahmad Khamdani 👨 (he/him)—a Junior Fullstack Developer from Indones
 
 ### Languages and Tools:
 
-<code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python"></code>
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"></code>
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain.svg" alt="laravel"></code>
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue"></code>
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
-<code><img height="27" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"></code>
-<code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="docker"></code>
-<code><img height="27" src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg" alt="electron"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron"></code>
 
 
 ### Projects and Dev Stuffs:
