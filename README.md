@@ -18,7 +18,7 @@ Hi, I'm Ahmad Khamdani 👨 (he/him)—a Junior Fullstack Developer from Indones
 ### Talking about Personal Stuffs:
 
 - 🛠 I’m currently working with Flutter, Laravel, Adonis, Nuxt, <br /> Postgresql, Javascript, etc.
-- 📖 I’m currently learning Spring Boot and Jetstream;
+- 📖 I’m currently learning ASP.NET and Android Kotlin (recall);
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ahmadkhamdani9@gmail.com to reach me.
