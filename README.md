@@ -4,7 +4,7 @@
   Hi all 👋, I'm Ahmad Khamdani a 18 years old guy who love code and open source. I really like creating an open source projects and i will make sure that the open source i create is useful to everyone. Thanks ^_^
   <br><br>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-35495E?style=for-the-badge&logo=next.js&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/nuxt%20js-%2300C58E?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <br><br>
