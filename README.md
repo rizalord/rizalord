@@ -4,7 +4,9 @@
   Hi all 👋, I'm Ahmad Khamdani a 18 years old guy who likes to learn technologies, especially in the backend. I really like designing a good cloud infrastructure, testing applications, doing automation and other things that make application performance better.
   <br><br>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express-%23dddddd?&style=for-the-badge&logo=express&logoColor=black"/>
   <img src="https://img.shields.io/badge/nuxt%20js-%2300C58E?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/next%20js-%23000000?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <br><br>
