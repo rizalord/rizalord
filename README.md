@@ -1,7 +1,7 @@
-![My card name](https://cardivo.vercel.app/api?name=Ahmad%20Khamdani&description=Hi,%20i%27m%20a%20Fullstack%20Developer%20and%20i%27m%2018%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/49712569?v=4&backgroundColor=%23293B5F&instagram=rizalord_&linkedin=Ahmad%20Khamdani&github=rizalord&twitter=rizalord_&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
+![My card name](https://cardivo.vercel.app/api?name=Ahmad%20Khamdani&description=Fullstack%20Developer&image=https://avatars.githubusercontent.com/u/49712569?v=4&backgroundColor=%23293B5F&instagram=rizalord_&linkedin=Ahmad%20Khamdani&github=rizalord&twitter=rizalord_&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
 
 <div align="center">
-  Hi all 👋, I'm Ahmad Khamdani a 18 years old guy who love code and open source. I really like creating an open source projects and i will make sure that the open source i create is useful to everyone. Thanks ^_^
+  Hi all 👋, I'm Ahmad Khamdani a 18 years old guy who likes to learn technologies, especially in the backend. I really like designing a good cloud infrastructure, testing applications, doing automation and other things that make application performance better.
   <br><br>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/nuxt%20js-%2300C58E?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
