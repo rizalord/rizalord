@@ -1,110 +1,34 @@
-Programming Language Agnostic , Tech Enthusiast and Fullstack Developer.
+![My card name](https://cardivo.vercel.app/api?name=Ahmad%20Khamdani&description=Fullstack%20Developer&image=https://avatars.githubusercontent.com/u/49712569?v=4&backgroundColor=%23293B5F&instagram=rizalord_&linkedin=Ahmad%20Khamdani&github=rizalord&twitter=rizalord_&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
 
-# Ahmad Khamdani
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rizalord)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rizalord.me/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rizalord_)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rizalord_/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rizalord)
+<div align="center">
+  Hi all 👋, I'm Ahmad Khamdani a 18 years old guy who likes to learn technologies, especially in the backend. I really like designing a good cloud infrastructure, testing applications, doing automation and other things that make application performance better.
+  <br><br>
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express-%23dddddd?&style=for-the-badge&logo=express&logoColor=black"/>
+  <img src="https://img.shields.io/badge/nuxt%20js-%2300C58E?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/next%20js-%23000000?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <br><br>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rizalord.rizalord&style=flat-square&color=0088cc)
+  You can reach me here:<br><br>
+  <a href="mailto:ahmadkhamdani9@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/rizalord" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="http://line.me/ti/p/~rizalord" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/line-%2300C300?&style=for-the-badge&logo=line&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/rizalord_" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/rizalord_" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
-Hi, I'm Ahmad Khamdani 👨 (he/him)—a Junior Fullstack Developer from Indonesia. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Backend Development 🕸️ and working on my Data Structures and Algorithms 🤓.
-
-[![](https://gitwar.herokuapp.com/badge?username=rizalord&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
-<img align="right" height="250" width="395" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
-
-### Talking about Personal Stuffs:
-
-- 🛠 I’m currently working with Flutter, Laravel, Adonis, Nuxt, <br /> Postgresql, Javascript, etc.
-- 📖 I’m currently learning ASP.NET and Android Kotlin (recall);
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via ahmadkhamdani9@gmail.com to reach me.
-- 📝 Checkout my [Resume](https://github.com/rizalord/rizalord/blob/master/resume.pdf).
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs
-- 📰 &nbsp; Reading some manga, light novel, and webtoon
-
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron"></code>
-
-
-### Projects and Dev Stuffs:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizalord&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalord&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/rizalord/portfolio-cms"><b>🚀 Portfolio CMS</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/rizalord/portfolio-cms?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/rizalord/portfolio-cms?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/rizalord/portfolio-cms?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rizalord/portfolio-cms?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/rizalord/portfolio-cms?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/rizalord/samehadaku-api"><b>💸 Samehadaku API</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/rizalord/samehadaku-api?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/rizalord/samehadaku-api?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/rizalord/samehadaku-api?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rizalord/samehadaku-api?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/rizalord/samehadaku-api?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/rizalord/komikcast-api"><b>💻 Komikcast API</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/rizalord/komikcast-api?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/rizalord/komikcast-api?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/rizalord/komikcast-api?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rizalord/komikcast-api?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/rizalord/komikcast-api?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
- 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Windows 10 Home</li>
-	    <li><b>Laptop: </b> ASUS X441U (i3)</li>
-  	    <li><b>Browser: </b> Chrome, Edge</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
-	</ul>	
-</details>
+  Made with ♥ in Malang, Indonesia
+  <br>
+  <a href="https://rizalord.me" style="color: #2E3440;">rizalord.me</a>
+</div>
