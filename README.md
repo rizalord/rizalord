@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Ahmad%20Khamdani&description=Fullstack%20Developer&image=https://avatars.githubusercontent.com/u/49712569?v=4&backgroundColor=%23293B5F&instagram=rizalord_&linkedin=Ahmad%20Khamdani&github=rizalord&twitter=rizalord_&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
+![My card name](https://cardivo.vercel.app/api?name=Ahmad%20Khamdani&description=Junior%20Fullstack%20Developer&image=https://avatars.githubusercontent.com/u/49712569?v=4&backgroundColor=%23293B5F&instagram=rizalord_&linkedin=Ahmad%20Khamdani&github=rizalord&twitter=rizalord_&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
 
 <div align="center">
   Hi all 👋, I'm Ahmad Khamdani a 18 years old guy who likes to learn technologies, especially in the backend. I really like designing a good cloud infrastructure, testing applications, doing automation and other things that make application performance better.
