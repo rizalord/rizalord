@@ -30,5 +30,5 @@
 
   Made with ♥ in Malang, Indonesia
   <br>
-  <a href="https://rizalord.me" style="color: #2E3440;">rizalord.me</a>
+  <a href="https://rizalord.me" style="color: #2E3440;">rizalord.tech</a>
 </div>
