@@ -1,10 +1,10 @@
-![My card name](https://cardivo.vercel.app/api?name=Ahmad%20Khamdani&description=Junior%20Fullstack%20Developer&image=https://avatars.githubusercontent.com/u/49712569?v=4&backgroundColor=%23293B5F&instagram=rizalord_&linkedin=Ahmad%20Khamdani&github=rizalord&twitter=rizalord_&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
+![My card name](https://cardivo.vercel.app/api?name=Ahmad%20Khamdani&description=Junior%20Fullstack%20Developer&image=https://avatars.githubusercontent.com/u/49712569?v=4&instagram=rizalord_&linkedin=Ahmad%20Khamdani&github=rizalord&twitter=rizalord_&backgroundColor=%23FFFFFF&pattern=iLikeFood&colorPattern=%2347597E&fontColor=%23777&iconColor=%23777&opacity=0.3)
 
 <div align="center">
-  Hi all 👋, I'm Ahmad Khamdani a 18 years old guy who likes to learn technologies, especially in the backend. I really like designing a good cloud infrastructure, testing applications, doing automation and other things that make application performance better.
+  Hi all 👋, I'm Ahmad Khamdani a 19 years old guy who likes to learn technologies, especially in the backend. I really like designing a good cloud infrastructure, testing applications, doing automation and other things that make application performance better.
   <br><br>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express-%23dddddd?&style=for-the-badge&logo=express&logoColor=black"/>
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/nuxt%20js-%2300C58E?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/next%20js-%23000000?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
