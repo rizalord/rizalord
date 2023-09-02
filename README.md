@@ -7,7 +7,7 @@ Fullstack Developer
 * 🌍  I'm based in Malang, Indonesia
 * 🖥️  See my portfolio at [here](http://rizalord.vercel.app)
 * ✉️  You can contact me at [ahmadkhamdani9@gmail.com](mailto:ahmadkhamdani9@gmail.com)
-* 🚀  I'm currently working on [Ekata Tech](http://ekata-tech.vercel.app)
+* 🚀  I'm currently working on [Arkatama](https://arkatama.id)
 * 🧠  I'm learning Kubernetes, CICD and AWS
 
 ### Skills
