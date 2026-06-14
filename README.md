@@ -5,10 +5,9 @@ Fullstack Developer
 -------------------
 
 * 🌍  I'm based in Malang, Indonesia
-* 🖥️  See my portfolio at [here](http://rizalord.vercel.app)
+* 🖥️  See my portfolio at [here](https://rizalord.my.id)
 * ✉️  You can contact me at [ahmadkhamdani9@gmail.com](mailto:ahmadkhamdani9@gmail.com)
-* 🚀  I'm currently working on [Arkatama](https://arkatama.id)
-* 🧠  I'm learning Kubernetes, CICD and AWS
+* 🚀  I'm currently working on [Universitas Merdeka Malang](https://unmer.ac.id)
 
 ### Skills
 
@@ -36,7 +35,3 @@ Fullstack Developer
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/rizalord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/rizalord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/lexeto.farron" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/rizalord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://rizalord.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rizalord_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/rizalord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11105388/ahmad-rizal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rizalord_" target="_blank" rel="noreferrer"><img 
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/rizalord"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
